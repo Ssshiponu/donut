@@ -9,4 +9,6 @@
 
 - open the terminal where you have cloned the repo
 
-- run this commend `gcc  to compile the code
+- run this commend `gcc donut.c -lm`  to compile the code
+
+- run `./a.out1` to run the compiled code
